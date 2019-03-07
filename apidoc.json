@@ -1,0 +1,9 @@
+{
+  "name": "大榮物流API文件",
+  "version": "v1.0",
+  "description": "本文件提供大榮物流 宅配單及包裹狀態串接，API文件提供開發人員參考，文件使用RESTful風格，如有疑問請聯繫開發者",
+  "apidoc": {
+    "title": "大榮物流API文件",
+    "url" : "http://homestead.app/api"
+  }
+}

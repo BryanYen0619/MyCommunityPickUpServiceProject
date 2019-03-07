@@ -1,0 +1,1 @@
+define({  "name": "大榮物流API文件",  "version": "v1.0",  "description": "本文件提供大榮物流 宅配單及包裹狀態串接，API文件提供開發人員參考，文件使用RESTful風格，如有疑問請聯繫開發者",  "apidoc": "0.3.0",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "generator": {    "name": "apidoc",    "time": "2018-10-02T08:26:19.758Z",    "url": "http://apidocjs.com",    "version": "0.17.6"  }});
